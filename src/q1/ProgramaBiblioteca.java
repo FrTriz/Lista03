@@ -13,7 +13,6 @@ public class ProgramaBiblioteca {
 
         for(Publicacao publicacao : publi){
             publicacao.imprimirDados();
-            System.out.println();
         }
 
     }
